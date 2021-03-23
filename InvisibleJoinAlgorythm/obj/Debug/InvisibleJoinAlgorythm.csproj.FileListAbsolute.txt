@@ -1,0 +1,7 @@
+C:\Users\yuvlo\source\repos\InvisibleJoinAlgorythm\InvisibleJoinAlgorythm\bin\Debug\InvisibleJoinAlgorythm.exe.config
+C:\Users\yuvlo\source\repos\InvisibleJoinAlgorythm\InvisibleJoinAlgorythm\bin\Debug\InvisibleJoinAlgorythm.exe
+C:\Users\yuvlo\source\repos\InvisibleJoinAlgorythm\InvisibleJoinAlgorythm\bin\Debug\InvisibleJoinAlgorythm.pdb
+C:\Users\yuvlo\source\repos\InvisibleJoinAlgorythm\InvisibleJoinAlgorythm\obj\Debug\InvisibleJoinAlgorythm.csprojAssemblyReference.cache
+C:\Users\yuvlo\source\repos\InvisibleJoinAlgorythm\InvisibleJoinAlgorythm\obj\Debug\InvisibleJoinAlgorythm.csproj.CoreCompileInputs.cache
+C:\Users\yuvlo\source\repos\InvisibleJoinAlgorythm\InvisibleJoinAlgorythm\obj\Debug\InvisibleJoinAlgorythm.exe
+C:\Users\yuvlo\source\repos\InvisibleJoinAlgorythm\InvisibleJoinAlgorythm\obj\Debug\InvisibleJoinAlgorythm.pdb
